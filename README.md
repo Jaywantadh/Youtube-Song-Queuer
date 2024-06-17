@@ -68,7 +68,6 @@ This project is an automation script that reads song names from a file (CSV, PDF
 
 Here is an example of how your CSV file (`songs.csv`) might look:
 
-```csv
 song
 Shape of You by Ed Sheeran
 Blinding Lights by The Weeknd
@@ -76,23 +75,22 @@ Uptown Funk by Mark Ronson ft. Bruno Mars
 Contributing
 This project is still in development and we welcome contributions from the community. Here are some ways you can help:
 
-Fix bugs and issues.
+##Fix bugs and issues.
 Improve the script to handle edge cases.
 Add support for more file formats.
 Optimize the Selenium interactions.
 Improve error handling and logging.
 Please feel free to fork this repository and submit pull requests.
 
-License
+##License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgements
+##Acknowledgements
 This project uses the selenium library for web automation.
 Thanks to the open-source community for their contributions and support.
 If you have any questions or need further assistance, please feel free to open an issue on the GitHub repository.
 
-css
-Copy code
+
 
 This `README.md` file provides a comprehensive overview of the project, including installation instructions, usage examples, and contribution guidelines. Feel free to customize it further based on your specific needs and preferences.
 
